@@ -1275,6 +1275,12 @@
   dependencies:
     react ">=15.0.0 <17.0.0"
 
+"@iconscout/react-unicons@iconscout/react-unicons":
+  version "2.0.0"
+  resolved "https://codeload.github.com/iconscout/react-unicons/tar.gz/5d28e7fa4e746716bb90c6c4dc386901d1142e05"
+  dependencies:
+    react ">=15.0.0 <17.0.0"
+
 "@istanbuljs/load-nyc-config@^1.0.0":
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/@istanbuljs/load-nyc-config/-/load-nyc-config-1.1.0.tgz#fd3db1d59ecf7cf121e80650bb86712f9b55eced"
