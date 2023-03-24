@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/eCom-Dashboard/static/css/main.17e9ff5b.css",
+    "main.js": "/eCom-Dashboard/static/js/main.6dbf9db5.js",
+    "static/media/img1.png": "/eCom-Dashboard/static/media/img1.a0fca9c51749c1ee3db5.png",
+    "static/media/img2.png": "/eCom-Dashboard/static/media/img2.f5f922c9b93eaf2c4065.png",
+    "static/media/img3.png": "/eCom-Dashboard/static/media/img3.6b1484548ee065fd59b5.png",
+    "index.html": "/eCom-Dashboard/index.html",
+    "main.17e9ff5b.css.map": "/eCom-Dashboard/static/css/main.17e9ff5b.css.map",
+    "main.6dbf9db5.js.map": "/eCom-Dashboard/static/js/main.6dbf9db5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17e9ff5b.css",
+    "static/js/main.6dbf9db5.js"
+  ]
+}
